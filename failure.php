@@ -22,7 +22,7 @@ If (isset($_POST["additionalCharges"])) {
         $retHashSeq = $salt.'|'.$status.'|||||||||||'.$email.'|'.$firstname.'|'.$productinfo.'|'.$amount.'|'.$txnid.'|'.$key;
          }
 		 $hash = hash("sha512", $retHashSeq);
-          	echo " <div class=\"panel panel-default\" align=\"center\"><div class=\"panel-heading\">";
+          	echo " <div class=\"panel panel-success\" align=\"center\"><div class=\"panel-heading\">";
 			echo "<p><b>PAYMENT FAILURE</b></p></div>";
        if ($hash != $posted_hash) {
 	       echo "Invalid Transaction. Please try again</div>";
