@@ -1,0 +1,4 @@
+<div style="margin:20px;" align="center" class="jumptron" >
+<p>Multiple donation forms for one time or recurring gifts that can be coded with campaign, solicitation, and more for filtering and reporting in DonorPerfect Online.</p>
+ <p>Our Mission is to inspire, empower, and connect people to change their world.That mission begins at home, on the South Side of Chicago, where we are building the Obama Presidential Center. But it extends to all our work, whether it's holding leadership training sessions in communities throughout the U.S., bringing local leaders together in countries around the world, working to support the global education of girls, or ensuring young men of color have pathways to opportunity.Learn more about these initiatives below. </p>
+</div>
